@@ -1,1 +1,3 @@
 Manzana
+pera
+papaya
