@@ -1,2 +1,5 @@
 Manzana
 Piña
+pera
+papaya
+
